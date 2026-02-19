@@ -12,7 +12,7 @@ An interactive web app built with **React + TypeScript + Vite** to simulate a **
 Add products from a standard menu, select a tip percentage, and see the **totals update in real-time**.  
 Finally, you can **confirm the order** once everything is ready. ✅  
 
-👉 **Live Demo:** [Tip Calculator App on Netlify](https://coruscating-lolly-a26084.netlify.app/)
+👉 **Live Demo:** [Tip Calculator App on Netlify](https://calpropinadrope.netlify.app/)
 
 ---
 
